@@ -14,7 +14,7 @@ o termo "distro" é a abreviação de distribuição, já que sistemas como o Ub
 ![e6x4j6](https://github.com/anassauro/read-me/assets/130870463/b703c645-978d-410e-8cfb-ca2cc111eb09)
 
 ## 🗂 Sistema de Arquivos
-Para acessar arquivos no Linux, utiliza-se diretórios com nomezinhos que guardam funções, drivers, bibliotecas etc. Para poder acessar esses arquivos usando os diretórios na maioria dos sistemas do tipo UNIX, utiliza-se "/" seguidos do diretório em questão, por exemplo, para acessar arquvios binários de programas e funções básicas, utiliza-se "/bin".
+Para acessar arquivos no Linux, utiliza-se diretórios com nomezinhos que guardam funções, drivers, bibliotecas etc. Para poder acessar esses arquivos usando os diretórios, na maioria dos sistemas do tipo UNIX, utiliza-se "/" seguidos do diretório em questão, por exemplo, para acessar arquvios binários de programas e funções básicas utiliza-se "/bin".
 
 ## 👩‍💻 Utilizando o terminal
 O terminal é ferramenta que recebe instruções digitadas por usuários a partir de um periférico como o teclado. Essas instruções são repassadas às partes de baixo nível do sistema operacional. Com ele, pode-se gerenciar arquivos, alterar configurações, instalar programas e muitas outras coisinhas. Para isso, basicamente tem que digitar no terminal a funçao, a flag e o argumento em questão.
